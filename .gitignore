@@ -1,0 +1,7 @@
+# ignore venv and .pyc files
+global-exclude venv
+global-exclude *.pyc
+venv/
+
+# ignore vscode settings
+.vscode/settings.json
